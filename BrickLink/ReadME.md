@@ -8,9 +8,9 @@ We started with a design we found on youtube. The creator gave permisson to use 
 
 <table>
   <thead><td><b>Version</b></td><td><b>Design</b></td><td><b>Notes</b></td></thead>
-  <tr><td>1</td><td></td><\td></td></tr>
-  <tr><td>2</td><td></td><\td></td></tr>
-  <tr><td>3</td><td></td><\td></td></tr>
+  <tr><td>1</td><td><img src="../Media/RobotV1.png" ></td><\td></td></tr>
+  <tr><td>2</td><td><img src="../Media/RobotV2.png" ></td><\td></td></tr>
+  <tr><td>3</td><td><img src="../Media/FLL_SuperPowered_v3.png" ></td><\td></td></tr>
 </table>
 
 ## Our Attachments
