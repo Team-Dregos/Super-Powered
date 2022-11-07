@@ -5,6 +5,10 @@ We used [Studio](https://www.bricklink.com/v3/studio/download.page?gclid=CjwKCAj
 
 <table>
   <thead><td><b>Name</b></td><td><b>Design</b></td><td><b>Version</b></td><td><b>Notes</b></td></thead>
-  <tr><td>Basket</td><td></td><td>2</td><td></td></tr>
-  <tr><td></td><td></td><td></td><td></td></tr>
+  <tr><td>Basket</td><td><img src="../Media/FLL_SuperPowered-Attachment-M07.png" width="25%"></td><td>2</td><td></td></tr>
+  <tr><td>Wedge</td><td><img src="../Media/FLL_SuperPowered-Attachment-M02_2.png" width="25%"></td><td>2</td><td></td></tr>
+  <tr><td>Tall Dropper</td><td><img src="../Media/fll_superpowered-attachment-m14.png" width="25%"></td><td>1</td><td></td></tr>
+  <tr><td>Small Dropper</td><td><img src="../Media/fll_superpowered-m3_attachment.png" width="25%"></td><td>1</td><td></td></tr>
+  <tr><td>Catcher</td><td><imng src="../Media/FLL_SuperPowered-Attachment-Catcher.png" width="25%"></td><td>2</td><td></td></tr>
+  <tr><td>Hydro Dropper</td><td><img src="../Media/FLL_SuperPowered-Attachment-HydroDropper.png" width="25%"></td><td>1</td><td></td></tr>
 </table>
