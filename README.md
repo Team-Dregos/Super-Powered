@@ -1,4 +1,4 @@
-# Project Drego
+# Project Dregos
 First Lego League - Superpowered - Team Drego
 
 
