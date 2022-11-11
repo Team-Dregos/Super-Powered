@@ -1,5 +1,5 @@
-# Project Dregos
-First Lego League - Superpowered - Team Drego
+# Superpowered Dregos
+First Lego League - Superpowered - Team Dregos
 
 
 
