@@ -1,4 +1,4 @@
-# Project Dregos
+# Superpowered Dregos
 ## Spike Prime Code
 In this folder you will find all of the code we created to drive our robot and complete SuperPowered Missions.
 We also created a program to help us design our mission code.
