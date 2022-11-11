@@ -37,3 +37,7 @@ We decided to use a set of passive attachments to keep our programing simple and
   <tr><td>Catcher</td><td><img src="./Media/FLL_SuperPowered-Attachment-Catcher.png" width="25%"></td><td>2</td><td></td></tr>
   <tr><td>Hydro Dropper</td><td><img src="./Media/FLL_SuperPowered-Attachment-HydroDropper.png" width="25%"></td><td>1</td><td></td></tr>
 </table>
+
+** Contributors
+Due to the age and privacy of our team members we cannot share their names. 
+We can tell you that they are each equally cool and fun to work with.
