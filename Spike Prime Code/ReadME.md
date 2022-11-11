@@ -16,7 +16,7 @@ We can switch between what we are measuring by using the left or right buttons.
 ### Run Code
 We decided to call a group of missions a Run. Then we could divide up the runs between teams. 
 We had two identical robots to work with so we could split up the work and combine it later.
-Our run code uses the same [Baseline]("./FLL Superpowered Baseline.llsp") which contains three Make Blocks to make driving and turning more accurate and easy to use.
+Our run code uses the same [Baseline](./FLL%20Superpowered%20Baseline.llsp) which contains three Make Blocks to make driving and turning more accurate and easy to use.
 
 **BASELINE** 
 * Drive by Gyro - Requires the power to turn the motors by and the +/- distance in cm you wish to travel
