@@ -1,4 +1,4 @@
-<img src="./Media/Superpowered_Logo.png" alt="Superpowerd">
+<img src="./Media/Superpowered_Logo.png" alt="Superpowerd"><img src="./Media/fll-logo-horizontal.png" width="40%">
 # Superpowered Dregos
 First Lego League - Superpowered - Team Dregos
 
