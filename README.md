@@ -19,7 +19,7 @@ Last year we came across a Youtube creator that gave some really good tips and t
 
 We could design attachments at home and build them when we went to practice. Studio also prints out step by step instructions which means we could assign attachments to everyone in our team and they could all participate in building peices for our project.
 
-We highly recommend learning how to use Studio.
+We highly recommend learning how to use [Studio]().
 
 
 
