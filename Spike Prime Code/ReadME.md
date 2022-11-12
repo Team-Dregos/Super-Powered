@@ -1,4 +1,5 @@
-# Superpowered Dregos
+<img src="../Media/Superpowered_Logo.png" alt="Superpowerd"><img src="../Media/fll-logo-horizontal.png" width="40%">
+# Super Powered Dregos
 ## Spike Prime Code
 In this folder you will find all of the code we created to drive our robot and complete SuperPowered Missions.
 We also created a program to help us design our mission code.
