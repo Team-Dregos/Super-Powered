@@ -56,7 +56,13 @@ We decided to use a set of [passive attachments](https://www.youtube.com/watch?v
   <tr><td>Small Dropper</td><td><img src="./Media/fll_superpowered-m3_attachment.png" width="25%"></td><td>1</td><td></td></tr>
   <tr><td>Catcher</td><td><img src="./Media/FLL_SuperPowered-Attachment-Catcher.png" width="25%"></td><td>2</td><td></td></tr>
   <tr><td>Hydro Dropper</td><td><img src="./Media/FLL_SuperPowered-Attachment-HydroDropper.png" width="25%"></td><td>1</td><td></td></tr>
+  <tr><td>Forks</td><td><img src="./Media/forks.png" width="25%"></td><td>1</td><td></td></tr>
+  <tr><td>Kicker</td><td><img src="./Media/kickerV2.png" width="25%"></td><td>2</td><td></td></tr>
 </table>
+
+## Competitions
+Calgary meetup: November 19, 2022
+Calgary competition: Feb 4, 2023
 
 ## Contributors
 Due to the age and privacy of our team members we cannot share their names. 
